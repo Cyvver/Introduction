@@ -11,7 +11,7 @@
  </ul>
 <h2>Education</h2>
 <ul>
-  <li><strong>Degree:</strong> Computer Science (Undergraduate)</li>
+  <li><strong>Course:</strong> Bachelor of Science in Computer Science</li>
   <li><strong>Institution:</strong> La Consolacion College Biñan</li>
 </ul>
 <h2>Hobbies and Interests</h2>
